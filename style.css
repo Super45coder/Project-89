@@ -1,0 +1,19 @@
+body
+{
+	background: red;
+}
+
+	.login_div1, .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		width:800px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+}
